@@ -15,3 +15,4 @@ next_age = int(h) + 1
 print(f"в следующем году вам будет {next_age}")
 natural_numbers = 1, 2, 3
 
+
